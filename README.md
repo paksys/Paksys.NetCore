@@ -1,1 +1,4 @@
-"# Paksys.NetCore" 
+# Paksys.NetCore
+Microsoft .NET Core based libraries
+
+
